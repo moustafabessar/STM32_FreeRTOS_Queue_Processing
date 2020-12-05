@@ -16,4 +16,4 @@
 
 
 ### The command should be sent to board via UART from the user
-![alt text](https://github.com/moustafabessar/STM32_FreeRTOS_Queue_Processing/issues/1#issue-757513885)
+![](Project%20Discription.png)
